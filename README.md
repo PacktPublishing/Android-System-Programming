@@ -1,5 +1,4 @@
-# Android-System-Programming
-Android System Programming published by Packt
+# Android System Programming
 
 This is the code repository for [Android System Programming](https://www.packtpub.com/application-development/android-system-programming?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787125360), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
 
@@ -15,12 +14,12 @@ The code will look like the following:
 [
   static struct hw_module_methods_t lights_module_methods = {
     .open = open_lights,
-};
+  };
 ]
 ```
 
 ## Related Products
-* [Meteor: Reactive Android Programming](https://www.packtpub.com/application-development/reactive-android-programming?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787289901)
+* [Reactive Android Programming](https://www.packtpub.com/application-development/reactive-android-programming?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787289901)
 
 * [Android: Programming for Developers](https://www.packtpub.com/application-development/android-programming-developers?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787123694)
 
