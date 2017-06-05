@@ -11,11 +11,11 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 The code will look like the following:
 ```
-[
+
   static struct hw_module_methods_t lights_module_methods = {
     .open = open_lights,
   };
-]
+
 ```
 
 ## Related Products
