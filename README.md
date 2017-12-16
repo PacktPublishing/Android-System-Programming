@@ -24,6 +24,5 @@ The code will look like the following:
 * [Android: Programming for Developers](https://www.packtpub.com/application-development/android-programming-developers?utm_source=GitHub&utm_medium=repo&utm_campaign=9781787123694)
 
 * [Mastering Android Game Development with Unity](https://www.packtpub.com/game-development/mastering-android-game-development-unity?utm_source=GitHub&utm_medium=repo&utm_campaign=9781783550777)
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+
 
